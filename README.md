@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Hora/Dia        | Lunes | Martes        | Miercoles     | Jueves        | Viernes       |
+|-----------------|-------|---------------|---------------|---------------|---------------|
+| 7:00am- 7:50am  |       | Manto.Computo | Manto.Computo |               | Manto.Computo |
+| 7:55am- 8:45am  |       |               |               |               |               |
+| 8:50am- 9:40am  |       |               |               |               |               |
+| 9:45am- 10:35am |       |               |               | Manto.Computo |               |
