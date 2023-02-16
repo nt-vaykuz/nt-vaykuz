@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Hora/Dia        | Lunes | Martes        | Miercoles     | Jueves        | Viernes       |
-|-----------------|-------|---------------|---------------|---------------|---------------|
-| 7:00am- 7:50am  |       | Manto.Computo | Manto.Computo |               | Manto.Computo |
-| 7:55am- 8:45am  |       |               |               |               |               |
-| 8:50am- 9:40am  |       |               |               |               |               |
-| 9:45am- 10:35am |       |               |               | Manto.Computo |               |
+|       **Hora/Dia**      |       **Lunes**       |            **Martes**            |           **Miercoles**          |                   **Jueves**                   |            **Viernes**           |
+|:-----------------------:|:---------------------:|:--------------------------------:|:--------------------------------:|:----------------------------------------------:|:--------------------------------:|
+|      **7:00- 7:50**     | COMUNIDADES VIRTUALES | MANTENIMIENTO Y REDES DE COMPUTO | MANTENIMIENTO Y REDES DE COMPUTO |                    FISICA 2                    | MANTENIMIENTO Y REDES DE COMPUTO |
+|      **7:55- 8:55**     |        FISICA 2       |            BIOLOGIA 2            |            BIOLOGIA 2            | ACTIVIDADES FISICAS DEPORTIVAS Y RECREATIVAS 4 |            BIOLOGIA 2            |
+|      **8:50- 9:40**     |     MATEMATICAS 4     |             FISICA 2             |           LITERATURA 2           |                  MATEMATICAS 4                 |           MATEMATICAS 4          |
+|     **9:45- 10:35**     |      LITERATURA 4     |           MATEMATICAS 4          |             FISICA 2             |        MANTENIMIENTO Y REDES DE COMPUTO        |             FISICA 2             |
+| **RECESO 10:35- 11:05** |                       |                                  |                                  |                                                |                                  |
+|     **11:05- 11:55**    |        INGLES 4       |       COMUNIDADES VIRTUALES      |      ORIENTACION EDUCATIVA 4     |                    INGLES 4                    |       HISTORIA DE MEXICO 2       |
+|     **12:00- 12:50**    |  HISTORIA DE MEXICO 2 |       COMUNIDADES VIRTUALES      |           MATEMATICAS 4          |              HISTORIA DE MEXICO 2              |           LITERATURA 2           |
+|     **12:55- 13:45**    |                       |                                  |                                  |                   BIOLOGIA 2                   |             INGLES 4             |
