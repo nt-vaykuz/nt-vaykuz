@@ -1,4 +1,4 @@
-### 🦤 About Me:
+#  🦤 sobre mi:
 Estudiante de la PFLC 🐆<br>Tecnologías de la Información y la comunicación (TIC) 💻🦤<br>
 
 
